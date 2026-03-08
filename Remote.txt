@@ -1,3 +1,4 @@
 remote; line 1 added
 line 2 added locally
 line 3 added locally
+Line 3 added remotely
